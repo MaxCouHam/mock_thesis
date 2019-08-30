@@ -1,1 +1,3 @@
 Yeah so here's a file idk what to do with
+
+I think I"m not a fan of Git
